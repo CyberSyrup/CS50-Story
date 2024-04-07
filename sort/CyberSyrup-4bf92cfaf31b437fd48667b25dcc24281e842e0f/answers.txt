@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Takes much time while working with random and reversed. It compares pairs of adjacent values one at a time and swaps them if they are in the incorrect order
+
+sort2 uses: Merge Sort
+
+How do you know?: The quickest time with random and reverser lists
+
+sort3 uses: Selection Sort
+
+How do you know?: The slowest time on sorted because it has to deal with all the number in the array.It iterates through the unsorted portions of a list, selecting the smallest element each time and moving it to its correct location
